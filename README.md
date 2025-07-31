@@ -1,2 +1,2 @@
 # gitdemo
-my first git connection
+my first git connection by vikas chourasiya
